@@ -42,9 +42,9 @@
 
 [Номер 20](https://github.com/Terrak1n/Pract2/blob/main/Images/Номер4.jpg)
 
-[Индивидуальное 1](https://github.com/Terrak1n/Pract2/blob/main/Images/Индвидуальное1.jpg)
+[[Индивидуальное 1](https://github.com/Terrak1n/Pract2/blob/main/Images/Индивидуальное1.jpg)
 
-[Индивидуальное 2](https://github.com/Terrak1n/Pract2/blob/main/Images/Индвидуальное2.jpg)
+[Индивидуальное 2](https://github.com/Terrak1n/Pract2/blob/main/Images/Индивидуальное2.jpg)
 
-[Индивидуальное 3](https://github.com/Terrak1n/Pract2/blob/main/Images/Индвидуальное2.jpg)
+[Индивидуальное 3](https://github.com/Terrak1n/Pract2/blob/main/Images/Индивидуальное3.jpg)
 
