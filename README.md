@@ -48,15 +48,15 @@
 
 [Индивидуальное 3](https://github.com/Terrak1n/Pract2/blob/main/Images/Индивидуальное3.jpg)
 
-[Индивидуальное 4](https://github.com/Terrak1n/Pract2/blob/main/Images/Индивидуальное4.jpg)
+[Индивидуальное 4](https://github.com/Terrak1n/Pract2/blob/main/Images/Индивидуальное4.png)
 
-[Индивидуальное 5](https://github.com/Terrak1n/Pract2/blob/main/Images/Индивидуальное5.jpg)
+[Индивидуальное 5](https://github.com/Terrak1n/Pract2/blob/main/Images/Индивидуальное5.png)
 
-[Индивидуальное 6](https://github.com/Terrak1n/Pract2/blob/main/Images/Индивидуальное6.jpg)
+[Индивидуальное 6](https://github.com/Terrak1n/Pract2/blob/main/Images/Индивидуальное6.png)
 
-[Индивидуальное 7](https://github.com/Terrak1n/Pract2/blob/main/Images/Индивидуальное7.jpg)
+[Индивидуальное 7](https://github.com/Terrak1n/Pract2/blob/main/Images/Индивидуальное7.png)
 
-[Индивидуальное 8](https://github.com/Terrak1n/Pract2/blob/main/Images/Индивидуальное8.jpg)
+[Индивидуальное 8](https://github.com/Terrak1n/Pract2/blob/main/Images/Индивидуальное8.png)
 
-[Индивидуальное 9](https://github.com/Terrak1n/Pract2/blob/main/Images/Индивидуальное9.jpg)
+[Индивидуальное 9](https://github.com/Terrak1n/Pract2/blob/main/Images/Индивидуальное9.png)
 
